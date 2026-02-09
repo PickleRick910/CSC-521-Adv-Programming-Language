@@ -1,0 +1,445 @@
+Consumer 4 tries to consume at time 1728159398
+Consumer 3 tries to consume at time 1728159398
+Consumer 2 tries to consume at time 1728159398
+Consumer 1 tries to consume at time 1728159398
+Consumer 0 tries to consume at time 1728159398
+Producer 4 tries to insert 449 at time 1728159398
+Producer 4 produced 449 at time 1728159398
+slot 0: 449
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 4 consumed 449 at time 1728159398
+slot 0: -1
+Producer 3 tries to insert 449 at time 1728159398
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 3 produced 449 at time 1728159398
+slot 0: -1
+slot 1: 449
+Producer 2 tries to insert 449 at time 1728159398
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 1 tries to insert 449 at time 1728159398
+Producer 2 produced 449 at time 1728159398
+slot 0: -1
+slot 1: 449
+slot 2: 449
+slot 3: -1
+slot 4: -1
+
+Producer 0 tries to insert 449 at time 1728159398
+Producer 0 produced 449 at time 1728159398
+slot 0: -1
+slot 1: 449
+slot 2: 449
+slot 3: 449
+slot 4: -1
+
+Producer 1 produced 449 at time 1728159398
+slot 0: -1
+slot 1: 449
+slot 2: 449
+slot 3: 449
+slot 4: 449
+
+Consumer 3 consumed 449 at time 1728159398
+slot 0: -1
+slot 1: -1
+slot 2: 449
+slot 3: 449
+slot 4: 449
+
+Consumer 2 consumed 449 at time 1728159398
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 449
+slot 4: 449
+
+Consumer 1 consumed 449 at time 1728159398
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 449
+
+Consumer 0 consumed 449 at time 1728159398
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 0 tries to consume at time 1728159400
+Consumer 1 tries to consume at time 1728159400
+Consumer 2 tries to consume at time 1728159400
+Consumer 3 tries to consume at time 1728159400
+Consumer 4 tries to consume at time 1728159400
+Producer 1 tries to insert 474 at time 1728159402
+Producer 1 produced 474 at time 1728159402
+slot 0: 474
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 0 consumed 474 at time 1728159402
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 0 tries to insert 474 at time 1728159402
+Producer 2 tries to insert 474 at time 1728159402
+Producer 0 produced 474 at time 1728159402
+slot 0: -1
+slot 1: 474
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 3 tries to insert 474 at time 1728159402
+Producer 3 produced 474 at time 1728159402
+slot 0: -1
+slot 1: 474
+slot 2: 474
+slot 3: -1
+slot 4: -1
+
+Producer 2 produced 474 at time 1728159402
+slot 0: -1
+slot 1: 474
+slot 2: 474
+slot 3: 474
+slot 4: -1
+
+Consumer 1 consumed 474 at time 1728159402
+slot 0: -1
+slot 1: -1
+slot 2: 474
+slot 3: 474
+slot 4: -1
+
+Consumer 2 consumed 474 at time 1728159402
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 474
+slot 4: -1
+
+Consumer 3 consumed 474 at time 1728159402
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 4 tries to insert 474 at time 1728159402
+Producer 4 produced 474 at time 1728159402
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 474
+
+Consumer 4 consumed 474 at time 1728159402
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 4 tries to consume at time 1728159406
+Producer 4 tries to insert 709 at time 1728159406
+Producer 4 produced 709 at time 1728159406
+slot 0: 709
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 3 tries to consume at time 1728159406
+Consumer 4 consumed 709 at time 1728159406
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 3 tries to insert 709 at time 1728159406
+Consumer 2 tries to consume at time 1728159406
+Producer 3 produced 709 at time 1728159406
+slot 0: -1
+slot 1: 709
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 2 tries to insert 709 at time 1728159406
+Consumer 3 consumed 709 at time 1728159406
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+Consumer 1 tries to consume at time 1728159406
+
+Producer 0 tries to insert 709 at time 1728159406
+Producer 2 produced 709 at time 1728159406
+slot 0: -1
+slot 1: -1
+slot 2: 709
+slot 3: -1
+slot 4: -1
+
+Producer 1 tries to insert 709 at time 1728159406
+Producer 1 produced 709 at time 1728159406
+slot 0: -1
+Consumer 0 tries to consume at time 1728159406
+slot 1: -1
+slot 2: 709
+slot 3: 709
+slot 4: -1
+
+Consumer 1 consumed 709 at time 1728159406
+Consumer 3 tries to consume at time 1728159406
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 709
+slot 4: -1
+
+Producer 0 produced 709 at time 1728159406
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 709
+slot 4: 709
+
+Consumer 2 consumed 709 at time 1728159406
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 709
+
+Consumer 0 consumed 709 at time 1728159406
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 4 tries to consume at time 1728159406
+Consumer 1 tries to consume at time 1728159406
+Consumer 2 tries to consume at time 1728159406
+Consumer 0 tries to consume at time 1728159406
+Producer 0 tries to insert 329 at time 1728159409
+Producer 0 produced 329 at time 1728159409
+slot 0: 329
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 3 consumed 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 1 tries to insert 329 at time 1728159409
+Producer 1 produced 329 at time 1728159409
+slot 0: -1
+slot 1: 329
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer 4 consumed 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 2 tries to insert 329 at time 1728159409
+Producer 2 produced 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: 329
+slot 3: -1
+slot 4: -1
+
+Consumer 1 consumed 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 3 tries to insert 329 at time 1728159409
+Producer 3 produced 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 329
+slot 4: -1
+
+Consumer 2 consumed 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 4 tries to insert 329 at time 1728159409
+Producer 4 produced 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 329
+
+Consumer 0 consumed 329 at time 1728159409
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 4 tries to insert 440 at time 1728159412
+Producer 4 produced 440 at time 1728159412
+slot 0: 440
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 3 tries to insert 440 at time 1728159412
+Producer 3 produced 440 at time 1728159412
+slot 0: 440
+slot 1: 440
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer 2 tries to insert 440 at time 1728159412
+Producer 2 produced 440 at time 1728159412
+slot 0: 440
+slot 1: 440
+slot 2: 440
+slot 3: -1
+slot 4: -1
+
+Producer 1 tries to insert 440 at time 1728159412
+Producer 1 produced 440 at time 1728159412
+slot 0: 440
+slot 1: 440
+slot 2: 440
+slot 3: 440
+slot 4: -1
+
+Producer 1 tries to insert 117 at time 1728159412
+Producer 1 produced 117 at time 1728159412
+slot 0: 440
+slot 1: 440
+slot 2: 440
+slot 3: 440
+slot 4: 117
+
+Producer 0 tries to insert 440 at time 1728159412
+Producer 4 tries to insert 117 at time 1728159412
+Producer 3 tries to insert 117 at time 1728159412
+Producer 2 tries to insert 117 at time 1728159412
+Producer 1 tries to insert 811 at time 1728159413
+Consumer 0 tries to consume at time 1728159413
+Consumer 0 consumed 440 at time 1728159413
+slot 0: -1
+slot 1: 440
+slot 2: 440
+slot 3: 440
+slot 4: 117
+
+Consumer 2 tries to consume at time 1728159413
+Consumer 2 consumed 440 at time 1728159413
+slot 0: -1
+slot 1: -1
+slot 2: 440
+slot 3: 440
+slot 4: 117
+
+Producer 0 produced 440 at time 1728159413
+slot 0: 440
+slot 1: -1
+slot 2: 440
+slot 3: 440
+slot 4: 117
+
+Producer 4 produced 117 at time 1728159413
+slot 0: 440
+slot 1: 117
+slot 2: 440
+slot 3: 440
+slot 4: 117
+
+Consumer 1 tries to consume at time 1728159413
+Consumer 1 consumed 440 at time 1728159413
+slot 0: 440
+slot 1: 117
+slot 2: -1
+slot 3: 440
+slot 4: 117
+
+Producer 3 produced 117 at time 1728159413
+slot 0: 440
+slot 1: 117
+slot 2: 117
+slot 3: 440
+slot 4: 117
+
+Consumer 4 tries to consume at time 1728159413
+Consumer 4 consumed 440 at time 1728159413
+slot 0: 440
+slot 1: 117
+slot 2: 117
+slot 3: -1
+slot 4: 117
+
+Producer 2 produced 117 at time 1728159413
+slot 0: 440
+slot 1: 117
+slot 2: 117
+slot 3: 117
+slot 4: 117
+
+Consumer 3 tries to consume at time 1728159413
+Consumer 3 consumed 117 at time 1728159413
+slot 0: 440
+slot 1: 117
+slot 2: 117
+slot 3: 117
+slot 4: -1
+
+Producer 1 produced 811 at time 1728159413
+slot 0: 440
+slot 1: 117
+slot 2: 117
+slot 3: 117
+slot 4: 811
+
+Producer 0 tries to insert 117 at time 1728159413
+Producer 1 tries to insert 491 at time 1728159415
+Producer 2 tries to insert 811 at time 1728159415
+Producer 4 tries to insert 811 at time 1728159415
+Producer 3 tries to insert 811 at time 1728159415
