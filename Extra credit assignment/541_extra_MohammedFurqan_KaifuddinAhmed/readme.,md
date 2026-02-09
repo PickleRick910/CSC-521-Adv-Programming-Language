@@ -1,0 +1,63 @@
+# Disk Scheduling Algorithms Simulation
+
+## Project Overview
+This comprehensive disk scheduling simulation provides an in-depth analysis of three fundamental disk scheduling algorithms: 
+ 1.First-Come, First-Served (FCFS),
+ 2. SCAN (Elevator)
+ 3. Circular SCAN (C-SCAN).
+
+## Project Structure
+- `fcfs_scheduler.py`: First-Come, First-Served (FCFS) Algorithm Implementation
+- `scan_scheduler.py`: SCAN (Elevator) Algorithm Implementation
+- `cscan_scheduler.py`: Circular SCAN (C-SCAN) Algorithm Implementation
+- `main_scheduler.py`: Simulation Execution and Comparison Module
+
+## Features
+- Flexible disk configuration
+- Random cylinder request generation
+- Detailed performance reporting
+- Algorithm comparison
+- Robust error handling
+- Reproducible random seed generation
+
+## Execution Instructions
+1. Ensure Python 3.7+ is installed
+2. Navigate to the project directory
+3. Run the simulation:
+   ```
+   python main_scheduler.py
+   ```
+4. Follow on-screen prompts to configure:
+   - Total disk cylinders
+   - Number of cylinder requests
+   - Initial head position
+
+## Algorithm Performance Insights
+### First-Come, First-Served (FCFS)
+- Simplest scheduling approach
+- No optimization of head movement
+- Predictable but potentially inefficient
+
+### SCAN (Elevator)
+- Reduces head movement by moving in one direction
+- Services requests in a sweeping motion
+- More efficient than FCFS
+
+### Circular SCAN (C-SCAN)
+- Provides more uniform wait times
+- Ensures consistent service across disk regions
+- Often the most efficient for random request patterns
+
+## Recommended Usage
+- Experiment with different cylinder configurations
+- Compare algorithm performance
+- Understand disk scheduling trade-offs
+
+## Contribution Guidelines
+1. Mohammed Furqan : writing fcfs and circular scan scode 
+2. Kaifuddin Ahmed: writing the main and Scan algorithm code. 
+
+## Potential Improvements
+- Add more detailed logging
+- Implement additional scheduling algorithms
+- Create visualization of head movements
